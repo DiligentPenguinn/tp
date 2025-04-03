@@ -64,6 +64,9 @@
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
         "deleting-a-person": "Deleting a person",
+        "making-an-appointment": "Making an appointment",
+        "deleting-an-appointment": "Deleting an appointment",
+        "clearing-appointments": "Clearing appointments",
         "saving-data": "Saving data"
       },
       "headingKeywords": {}
@@ -110,6 +113,9 @@
       "headings": {
         "klinix-user-guide": "Klinix User Guide",
         "quick-start": "Quick start",
+        "input-parameters": "Input parameters",
+        "appointment-parameters": "Appointment Parameters",
+        "other-parameters": "Other Parameters",
         "features": "Features",
         "viewing-past-commands": "Viewing past commands:",
         "viewing-help-help": "Viewing help : help",
